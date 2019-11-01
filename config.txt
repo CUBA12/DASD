@@ -1,0 +1,6 @@
+owner=639716085918072851
+prefix=-
+game=RDF
+stayinchannel=true
+songinstatus=false
+token=NjM5NzE2MDg1OTE4MDcyODUx.XbvUDw.h5QveZPtOJRwffmozDkp05KFSIQ
